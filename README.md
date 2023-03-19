@@ -15,3 +15,10 @@ This library is mainly used to implement breadth-first algorithm, Dijkstra algor
 This library is mainly used to record my learning trajectory algorithm process, mainly using python to chieve the algorithm.
 
 If I have extra time, I try to refactor the algorithms in c++ code.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+                                                                    分割线
+2023.3.19
+
+First version of breadth-first algorithm.You need to manually add obstacles.And can only move in four directions.
