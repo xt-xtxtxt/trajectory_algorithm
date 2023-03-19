@@ -4,7 +4,7 @@
 
 Simple trajectory algorithms are implemented in python
 
-My English is limited, so there may be grammatical or semantic errors in the description.If you find any errors in the code or description, please contact me for modification.Thank you very much.
+Due to my limited English, so there may be grammatical or semantic errors in the description.If you find any errors in the code or description, please contact me for modification.Thank you very much.
 
 This is my email address: taoxu22@mails.jlu.edu.cn
 
