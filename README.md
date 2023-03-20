@@ -16,6 +16,8 @@ This library is mainly used to record my learning trajectory algorithm process, 
 
 If I have extra time, I try to refactor the algorithms in c++ code.
 
+Reference : https://www.redblobgames.com/pathfinding/a-star/introduction.html
+
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 
