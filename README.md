@@ -18,7 +18,16 @@ If I have extra time, I try to refactor the algorithms in c++ code.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-                                                                    分割线
+
+2023.3.20
+
+1.The breadth-first algorithm was modified to add diagonal movement.Increase the number of obstacles on the map.
+
+2.Dijkstra algorithm and Astar algorithm were added.Dijkstra algorithm has a good performance, but Astar alogrithm still has some problem.I will modify the Astar algorithm in the following time.
+
+3.Package and sort all files for runtime and error correction.
+
+
 2023.3.19
 
 First version of breadth-first algorithm.You need to manually add obstacles.And can only move in four directions.
