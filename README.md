@@ -19,7 +19,14 @@ If I have extra time, I try to refactor the algorithms in c++ code.
 Reference : https://www.redblobgames.com/pathfinding/a-star/introduction.html
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
+# Modify log:
 
+
+2023.3.21
+
+1.Upload the newly modified Astar algorithm.Previous versions of Astar had major logic problems.Please refer to new version.
+
+2.This version of Astar algorithm is still not perfect.It's not looking for the shortest path.It is affected by heuristic function and moving cost.You can modify its parameters yourself.
 
 2023.3.20
 
